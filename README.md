@@ -1,5 +1,5 @@
 # Teraform-project
 ## Description
-```SH
+```sh
 This repo consist of my terraform configuration in my enviroment. 
 ```
